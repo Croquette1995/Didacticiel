@@ -1,0 +1,65 @@
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe.config
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.pdb
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.AssemblyReference.cache
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Properties.Resources.resources
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.GenerateResource.cache
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.CoreCompileInputs.cache
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\Downloads\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.pdb
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe.config
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.pdb
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.AssemblyReference.cache
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Accueil.resources
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Properties.Resources.resources
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.GenerateResource.cache
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.CoreCompileInputs.cache
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.pdb
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.CopyComplete
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Inscription.resources
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Didacticiel.resources
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.AdministrationFormulaire.resources
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Coren\OneDrive\Bureau\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe.config
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.pdb
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.AssemblyReference.cache
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Accueil.resources
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.AdministrationFormulaire.resources
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Didacticiel.resources
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Inscription.resources
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Properties.Resources.resources
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.GenerateResource.cache
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.CoreCompileInputs.cache
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.CopyComplete
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.pdb
+C:\Users\Coren\Documents\ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.ResultatEvaluation.resources
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe.config
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ApplicationDidacticiel.pdb
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.AssemblyReference.cache
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Accueil.resources
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.AdministrationFormulaire.resources
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Didacticiel.resources
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Inscription.resources
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.Properties.Resources.resources
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.ResultatEvaluation.resources
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.GenerateResource.cache
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.CoreCompileInputs.cache
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.csproj.CopyComplete
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.exe
+C:\Users\Coren\Documents\[PAP] Principes Algorithmiques et Programmation\Evaluation\[PAP] ApplicationDidacticiel\ApplicationDidacticiel\obj\Debug\ApplicationDidacticiel.pdb
