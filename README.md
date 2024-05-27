@@ -1,6 +1,6 @@
 # Présentation : Didacticiel
 
-[Untitled|300](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Untitled.png)|
+[Untitled](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Untitled.png){largeur=100px hauteur=100px}
 [Contexte](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Contexte%203263e33f5eca4672bd57d9d9316112e7.md)
 
 
