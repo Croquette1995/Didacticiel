@@ -15,12 +15,12 @@
 |
   
 <div style="display: flex;">
-    <img src="Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Untitled.png" alt="Texte alternatif de l'image" style="width: 50%;"/>
-    <div style="flex-grow: 1; padding-left: 20px;">
+<img src="Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Untitled.png" alt="Texte alternatif de l'image" style="width: 50%;"/>
+<div style="flex-grow: 1; padding-left: 20px;">
 
-        <a href="Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Classes%20+%20Diagramme%20fad4cea7317f4e769e17565850ac8382.md">Classes + Diagramme</a>
+<a href="Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Classes%20+%20Diagramme%20fad4cea7317f4e769e17565850ac8382.md">Classes + Diagramme</a>
 
-        <a href="Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/%E2%80%9CPrincipes%20algorithmiques%20et%20programmation%E2%80%9D%20Rappor%20dc80d601a4794838839c4e8890fb9f75.md">Principes algorithmiques et programmation Rapport : Didacticiel </a>
+<a href="Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/%E2%80%9CPrincipes%20algorithmiques%20et%20programmation%E2%80%9D%20Rappor%20dc80d601a4794838839c4e8890fb9f75.md">Principes algorithmiques et programmation Rapport : Didacticiel </a>
 
-    </div>
+</div>
 </div>
