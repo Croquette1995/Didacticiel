@@ -1,37 +1,13 @@
-# Didacticiel - Contexte
+# Présentation : Didacticiel
 
-## **Réalisation d’un didacticiel**
+![Untitled](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Untitled.png)
 
-- Logiciel à portée éducative.
-- Sous la forme d’un QCM.
+[Contexte](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Contexte%203263e33f5eca4672bd57d9d9316112e7.md)
 
-![Untitled](Contexte%203263e33f5eca4672bd57d9d9316112e7/Untitled.png)
+[Fonctionnalités](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Fonctionnalite%CC%81s%2089f586ef26da41f58f973bb4046ab6a6.md)
 
-## Outils employés
+[Classes + Diagramme](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Classes%20+%20Diagramme%20fad4cea7317f4e769e17565850ac8382.md)
 
-- Microsoft Visual Studio (Édition Professionnelle 2022)
-- Langage C#
-- Krypton UI Component
-    - [https://github.com/Krypton-Suite/Standard-Toolkit](https://github.com/Krypton-Suite/Standard-Toolkit)
-- Microsoft Office (PowerPoint et Word)
-- Notion
-    
-    [Your wiki, docs & projects. Together.](https://www.notion.so)
-    
+[Code de l’application](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Code%20de%20l%E2%80%99application%20446ee18a653c46238b8562560aebff86.md)
 
-## Supports
-
-![Untitled](Contexte%203263e33f5eca4672bd57d9d9316112e7/Untitled%201.png)
-
-- Cours
-- Internet
-    - Documentation officielle de Microsoft
-        - [https://learn.microsoft.com/en-us/dotnet/csharp/](https://learn.microsoft.com/en-us/dotnet/csharp/)
-    - [https://www.dotnetperls.com/](https://www.dotnetperls.com/)
-    - Pour la recherche d’images
-        - [https://pictogrammers.com/libraries/](https://pictogrammers.com/libraries/)
-    
-
-[Fonctionnalités](Fonctionnalite%CC%81s%2089f586ef26da41f58f973bb4046ab6a6.md)
-
-[Présentation : Didacticiel](../Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18.md)
+[“Principes algorithmiques et programmation” Rapport : Didacticiel](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/%E2%80%9CPrincipes%20algorithmiques%20et%20programmation%E2%80%9D%20Rappor%20dc80d601a4794838839c4e8890fb9f75.md)
