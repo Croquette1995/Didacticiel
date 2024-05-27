@@ -26,5 +26,6 @@
 [Code de l’application](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/Code%20de%20l%E2%80%99application%20446ee18a653c46238b8562560aebff86.md)
 
 [“Principes algorithmiques et programmation” Rapport : Didacticiel](Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/%E2%80%9CPrincipes%20algorithmiques%20et%20programmation%E2%80%9D%20Rappor%20dc80d601a4794838839c4e8890fb9f75.md)
+    <a href="Pre%CC%81sentation%20Didacticiel%201c108e4001b04854b38be422119f8e18/%E2%80%9CPrincipes%20algorithmiques%20et%20programmation%E2%80%9D%20Rappor%20dc80d601a4794838839c4e8890fb9f75.md">“Principes algorithmiques et programmation” Rapport : Didacticiel </a>
     </div>
 </div>
